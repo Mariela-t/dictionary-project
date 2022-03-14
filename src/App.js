@@ -9,7 +9,18 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Mariela Tinoco Rojas</footer>
+        <footer className="App-footer">
+          <small>
+            <a
+              href="https://github.com/Mariela-t/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-source
+            </a>{" "}
+            code by Mariela Tinoco Rojas
+          </small>
+        </footer>
       </div>
     </div>
   );

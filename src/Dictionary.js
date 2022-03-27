@@ -34,7 +34,7 @@ export default function Dictionary(props) {
   if (loaded) {
     return (
       <div className="Dictionary">
-        <section>
+        <section className="search">
           <h1>What are you looking for?</h1>
           <form onSubmit={handleSubmit}>
             <input

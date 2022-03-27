@@ -13,13 +13,21 @@
   border-radius: 15px;
   margin: 20px 0;
   box-shadow: 0 10px 10px rgb(0 0 0 /10%);
+  color: #6b5949;
 }
 
 .Dictionary input {
-  width: 90%;
+  width: 60%;
   padding: 6px 4px;
   border: 1px solid #ddd;
   border-radius: 5px;
+  text-align: center;
+  color: #6b5949;
+  font-weight: 500;
+}
+
+.Dictionary .search {
+  text-align: center;
 }
 
 .Dictionary .hint {

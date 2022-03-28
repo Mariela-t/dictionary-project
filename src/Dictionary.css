@@ -13,7 +13,7 @@
   border-radius: 15px;
   margin: 20px 0;
   box-shadow: 0 10px 10px rgb(0 0 0 /10%);
-  color: #6b5949;
+  color: #8a684a;
 }
 
 .Dictionary input {
@@ -22,8 +22,9 @@
   border: 1px solid #ddd;
   border-radius: 5px;
   text-align: center;
-  color: #6b5949;
+  color: #86694f;
   font-weight: 500;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.075);
 }
 
 .Dictionary .search {
